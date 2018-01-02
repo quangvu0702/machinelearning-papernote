@@ -18,6 +18,7 @@
   
   - Papers:
     - [Related Pins at Pinterest: The Evolution of a Real-World Recommender System.](https://labs.pinterest.com/user/themes/pinlabs/assets/paper/p2p-www17.pdf)
+    - [An LSTM-Based Dynamic Customer Model for Fashion Recommendation](https://arxiv.org/abs/1708.07347)
   - Books:
   
 3 Deep Learning:
