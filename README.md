@@ -27,5 +27,5 @@
   - Books:
   
 4 Userful Articles:
-  - [Most Read Data Science Articles of 2017](https://www.datascienceweekly.org/articles/most-popular-data-science-articles-of-2017)
-  - [Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+  - [Most Read Data Science Articles of 2017](https://www.datascienceweekly.org/articles/most-popular-data-science-articles-of-2017)
+  - [Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
