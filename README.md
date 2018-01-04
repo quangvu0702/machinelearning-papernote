@@ -29,3 +29,4 @@
 4 Userful Articles:
   - [Most Read Data Science Articles of 2017](https://www.datascienceweekly.org/articles/most-popular-data-science-articles-of-2017)
   - [Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+  - [Unix Phylosophy](http://read.pudn.com/downloads63/ebook/222048/Linux%20and%20the%20Unix%20Philosophy.pdf)
