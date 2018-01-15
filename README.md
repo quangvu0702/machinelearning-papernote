@@ -24,6 +24,7 @@
 3 Deep Learning:
   - Courses:
   - Papers:
+    - [Deep Learning in Neural Networks: An Overview](https://arxiv.org/pdf/1404.7828.pdf)
   - Books:
   
 4 Books and Articles:
