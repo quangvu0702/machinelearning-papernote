@@ -29,7 +29,7 @@
   
 4 Graph and Network:
   - Tutorial:
-    - [Large Scale Network Analytics with SNAP] (http://snap.stanford.edu/proj/snap-www/)
+    - [Large Scale Network Analytics with SNAP](http://snap.stanford.edu/proj/snap-www/)
   
 5 Books and Articles:
   - [Most Read Data Science Articles of 2017](https://www.datascienceweekly.org/articles/most-popular-data-science-articles-of-2017)
