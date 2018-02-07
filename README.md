@@ -17,6 +17,7 @@
   - Courses:
   
   - Papers:
+    - [Applying deep learning to Related Pins](https://medium.com/the-graph/applying-deep-learning-to-related-pins-a6fee3c92f5e)
     - [Related Pins at Pinterest: The Evolution of a Real-World Recommender System.](https://labs.pinterest.com/user/themes/pinlabs/assets/paper/p2p-www17.pdf)
     - [An LSTM-Based Dynamic Customer Model for Fashion Recommendation](https://arxiv.org/abs/1708.07347)
   - Books:
