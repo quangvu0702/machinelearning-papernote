@@ -17,8 +17,10 @@
   - Courses:
   
   - Papers:
-    -  [Learning to Rank for Information Retrieval](http://didawiki.cli.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/ir/ir13/1_-_learning_to_rank.pdf)
-    -  [Learning to Rank using Gradient Descent](https://icml.cc/2015/wp-content/uploads/2015/06/icml_ranking.pdf)
+    - [Personalized PageRank Estimation and Search: A
+Bidirectional Approach](https://arxiv.org/pdf/1507.05999.pdf)
+    - [Learning to Rank for Information Retrieval](http://didawiki.cli.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/ir/ir13/1_-_learning_to_rank.pdf)
+    - [Learning to Rank using Gradient Descent](https://icml.cc/2015/wp-content/uploads/2015/06/icml_ranking.pdf)
     - [Related Pins at Pinterest:
 The Evolution of a Real-World Recommender System](https://labs.pinterest.com/user/themes/pinlabs/assets/paper/p2p-www17.pdf)
     - [Applying deep learning to Related Pins](https://medium.com/the-graph/applying-deep-learning-to-related-pins-a6fee3c92f5e)
