@@ -31,6 +31,7 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
     
   - Blog:
     - [How we grew from 0 to 4 million women on our fashion app, with a vertical machine learning approach](https://medium.com/@aldamiz/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7)
+    
 3 Deep Learning:
   - Courses:
   - Papers:
