@@ -43,7 +43,7 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
 4 Graph and Network:
   - Tutorial:
     - [Large Scale Network Analytics with SNAP](http://snap.stanford.edu/proj/snap-www/)
-  
+    - [SNAP: A General Purpose Network Analysis and Graph Mining Library](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5361061/)
 5 Books and Articles:
   - [Most Read Data Science Articles of 2017](https://www.datascienceweekly.org/articles/most-popular-data-science-articles-of-2017)
   - [Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
