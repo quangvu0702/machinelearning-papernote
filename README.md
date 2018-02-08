@@ -27,7 +27,10 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
     - [Related Pins at Pinterest: The Evolution of a Real-World Recommender System.](https://labs.pinterest.com/user/themes/pinlabs/assets/paper/p2p-www17.pdf)
     - [An LSTM-Based Dynamic Customer Model for Fashion Recommendation](https://arxiv.org/abs/1708.07347)
   - Books:
-  
+    - [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/?tag=thekerne-20)
+    
+  - Blog:
+    - [How we grew from 0 to 4 million women on our fashion app, with a vertical machine learning approach](https://medium.com/@aldamiz/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7)
 3 Deep Learning:
   - Courses:
   - Papers:
