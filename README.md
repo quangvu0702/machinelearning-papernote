@@ -17,6 +17,8 @@
   - Courses:
   
   - Papers:
+    - [Comparing Click Logs and Editorial Labels for Training
+Query Rewriting](http://www.ramb.ethz.ch/CDstore/www2007/www2007.org/workshops/paper_63.pdf)
     - [Personalized PageRank Estimation and Search: A
 Bidirectional Approach](https://arxiv.org/pdf/1507.05999.pdf)
     - [Learning to Rank for Information Retrieval](http://didawiki.cli.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/ir/ir13/1_-_learning_to_rank.pdf)
