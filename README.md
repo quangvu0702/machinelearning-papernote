@@ -51,6 +51,7 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
   - [Unix Phylosophy](http://read.pudn.com/downloads63/ebook/222048/Linux%20and%20the%20Unix%20Philosophy.pdf)
 
 6 Gits:
+  - http://www.arxiv-sanity.com
   - https://github.com/kjw0612/awesome-deep-vision
   - http://cachestocaches.com/2017/12/favorite-deep-learning-2017/
   - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
