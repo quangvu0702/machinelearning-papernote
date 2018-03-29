@@ -49,3 +49,9 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
   - [Most Read Data Science Articles of 2017](https://www.datascienceweekly.org/articles/most-popular-data-science-articles-of-2017)
   - [Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
   - [Unix Phylosophy](http://read.pudn.com/downloads63/ebook/222048/Linux%20and%20the%20Unix%20Philosophy.pdf)
+
+6 Gits:
+  - https://github.com/kjw0612/awesome-deep-vision
+  - http://cachestocaches.com/2017/12/favorite-deep-learning-2017/
+  - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+  - http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
