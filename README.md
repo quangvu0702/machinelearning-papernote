@@ -59,3 +59,5 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
   - https://github.com/nashory/gans-awesome-applications#object-detectionrecognition
   - https://github.com/nashory/gans-awesome-applications
   - https://github.com/nashory/gans-awesome-applications#object-detectionrecognition
+  - https://github.com/mrgloom/Face-Swap
+  
