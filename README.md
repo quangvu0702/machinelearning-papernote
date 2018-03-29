@@ -56,3 +56,4 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
   - http://cachestocaches.com/2017/12/favorite-deep-learning-2017/
   - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
   - http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
+  - https://github.com/nashory/gans-awesome-applications#object-detectionrecognition
