@@ -39,6 +39,7 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
   - Papers:
     - [Deep Learning in Neural Networks: An Overview](https://arxiv.org/pdf/1404.7828.pdf)
   - Books:
+  
   - Blog: 
     - [WILDML Artificial Intelligence, Deep Learning, and NLP](http://www.wildml.com)
    
