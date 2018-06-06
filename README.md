@@ -41,7 +41,9 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
   - Books:
   - Blog: 
     - [WILDML Artificial Intelligence, Deep Learning, and NLP](http://www.wildml.com)
-    
+  - Capsule:
+    - [CapsNet Visualization](https://github.com/bourdakos1/CapsNet-Visualization)
+    - [Tutorial a capsnet for Mnist](https://www.youtube.com/watch?v=pPN8d0E3900&t=1092s)
 4 Graph and Network:
   - Tutorial:
     - [Large Scale Network Analytics with SNAP](http://snap.stanford.edu/proj/snap-www/)
