@@ -44,6 +44,7 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
   - Capsule:
     - [CapsNet Visualization](https://github.com/bourdakos1/CapsNet-Visualization)
     - [Tutorial a capsnet for Mnist](https://www.youtube.com/watch?v=pPN8d0E3900&t=1092s)
+    - [Code and tutorial](https://github.com/aisummary/awesome-capsule-networks#under-review)
     
 4 Graph and Network:
   - Tutorial:
