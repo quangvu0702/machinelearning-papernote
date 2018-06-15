@@ -47,6 +47,8 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
     - [Code and tutorial](https://github.com/aisummary/awesome-capsule-networks#under-review)
     
 4 Graph and Network:
+  - List paper:
+    - [awesome network embedding](https://github.com/chihming/awesome-network-embedding)
   - Tutorial:
     - [Large Scale Network Analytics with SNAP](http://snap.stanford.edu/proj/snap-www/)
     - [SNAP: A General Purpose Network Analysis and Graph Mining Library](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5361061/)
