@@ -33,6 +33,7 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
     - [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/?tag=thekerne-20)
     
   - Blog:
+    - http://cseweb.ucsd.edu/~wckang/
     - [How we grew from 0 to 4 million women on our fashion app, with a vertical machine learning approach](https://medium.com/@aldamiz/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7)
     
 3 Deep Learning:
