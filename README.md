@@ -17,6 +17,7 @@
   - Courses:
   
   - Papers:
+    - [Session base recommendation with Graph](https://github.com/CRIPAC-DIG/SR-GNN)
     - [Comparing Click Logs and Editorial Labels for Training
 Query Rewriting](http://www.ramb.ethz.ch/CDstore/www2007/www2007.org/workshops/paper_63.pdf)
     - [Personalized PageRank Estimation and Search: A
