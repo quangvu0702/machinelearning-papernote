@@ -41,7 +41,8 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
   - Papers:
     - [Deep Learning in Neural Networks: An Overview](https://arxiv.org/pdf/1404.7828.pdf)
   - Books:
-  - Blog: 
+  - Blog:
+    - https://pechyonkin.me/
     - [WILDML Artificial Intelligence, Deep Learning, and NLP](http://www.wildml.com)
   - Capsule:
     - [CapsNet Visualization](https://github.com/bourdakos1/CapsNet-Visualization)
@@ -71,3 +72,4 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
   - https://github.com/nashory/gans-awesome-applications#object-detectionrecognition
   - https://github.com/mrgloom/Face-Swap
   - https://github.com/carpedm20/awesome-torch
+  - https://pechyonkin.me/
