@@ -56,12 +56,15 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
     - [Large Scale Network Analytics with SNAP](http://snap.stanford.edu/proj/snap-www/)
     - [SNAP: A General Purpose Network Analysis and Graph Mining Library](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5361061/)
     
-5 Books and Articles:
+5 NLP:
+  - https://www.kdnuggets.com/2018/05/nlp-online-courses-overview.html
+  
+6 Books and Articles:
   - [Most Read Data Science Articles of 2017](https://www.datascienceweekly.org/articles/most-popular-data-science-articles-of-2017)
   - [Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
   - [Unix Phylosophy](http://read.pudn.com/downloads63/ebook/222048/Linux%20and%20the%20Unix%20Philosophy.pdf)
 
-6 Gits:
+7 Gits:
   - http://www.arxiv-sanity.com
   - https://github.com/kjw0612/awesome-deep-vision
   - http://cachestocaches.com/2017/12/favorite-deep-learning-2017/
