@@ -58,6 +58,7 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
     
 5 NLP:
   - https://www.kdnuggets.com/2018/05/nlp-online-courses-overview.html
+  - http://web.stanford.edu/class/cs224n/index.html#coursework
   
 6 Books and Articles:
   - [Most Read Data Science Articles of 2017](https://www.datascienceweekly.org/articles/most-popular-data-science-articles-of-2017)
