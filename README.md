@@ -48,9 +48,11 @@ The Evolution of a Real-World Recommender System](https://labs.pinterest.com/use
     - [CapsNet Visualization](https://github.com/bourdakos1/CapsNet-Visualization)
     - [Tutorial a capsnet for Mnist](https://www.youtube.com/watch?v=pPN8d0E3900&t=1092s)
     - [Code and tutorial](https://github.com/aisummary/awesome-capsule-networks#under-review)
+
 3.1 GAN:
   - Book:
     - [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org)
+
 4 Graph and Network:
   - List paper:
     - [awesome network embedding](https://github.com/chihming/awesome-network-embedding)
